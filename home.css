@@ -28,13 +28,13 @@ nav{
     color: white;
 }
 .header{
-    background-image: url("images/bg1.jpg");
+    background-image: url("images/environ.gif");
     background-size: cover;
     position: relative;
     background-position: center;
 }
 .header2{
-    background-image: url("images/bg3.jpg");
+    background-image: url("images/overlay.png");
     background-size: cover;
     position: relative;
     background-position: center;
@@ -45,7 +45,7 @@ nav{
     min-width: 100%;
     left: 0;
     top: 0;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(187, 61, 143, 0.5);
 }
 .overlay2{
     position: relative;
@@ -53,7 +53,7 @@ nav{
     min-width: 100%;
     left: 0;
     top: 0;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(255, 255, 255, 0.5);
 }
 .description {
     left: 50%;
@@ -63,7 +63,9 @@ nav{
     text-align: center;
 }
 .description h1 {
-    color: lightblue;
+    color: yellow;
+    font-size: 3rem;
+    font-family: Exo;
 }
 .description p {
     color: #fff;

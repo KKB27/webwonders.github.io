@@ -143,7 +143,7 @@ nav.navbar{
     height: 500px;
     width: 50%;
     margin-left: 25%;
-    border-radius: 10px;
+    border-radius: 50px;
     margin-top:0;
 }
 .carousel-item img {
@@ -153,9 +153,11 @@ nav.navbar{
 
 .carousel-caption{
     bottom: 150px;
+    color: white;
+    font-weight: bolder;
 }
 #carouselExampleCaptions{
-    background-color: #000;
+    background-image: linear-gradient(lightblue,rgb(83, 83, 234),black);
 }
 .carousel-slide{
     background-color: black;

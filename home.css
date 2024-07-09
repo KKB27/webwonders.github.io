@@ -17,6 +17,9 @@ body {
 .nav-link:hover {
     color: rgb(241, 105, 209);
 }
+.nav-brand a{
+    color: rgb(241, 105, 209)
+}
 .navbar-collapse {
     justify-content: flex-end;
 }

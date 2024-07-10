@@ -183,3 +183,11 @@ nav.navbar{
     color: #6ab446;
     font-size: 4rem;
 }
+.page-footer{
+    background-image: url('images/bg.png');
+    color: white;
+}
+
+.page-footer a:hover{
+    color: rgb(241, 105, 209);
+}
